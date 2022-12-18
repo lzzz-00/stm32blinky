@@ -14,5 +14,5 @@ Steps
 3) Define the on-board LED pin (PC-13) into GPIO_Output pin in Pinout & Configuration
 4) Add blinking program inside the while loop
 
-References
+References : 
 https://microcontrollerslab.com/stm32-blue-pill-gpio-pins-stm32cube-ide-led-blinking-tutorial/
